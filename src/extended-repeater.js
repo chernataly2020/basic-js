@@ -14,4 +14,4 @@ let { repeatTimes, separator, addition, additionRepeatTimes, additionSeparator }
   return new Array(repeatTimes).fill(str + result).join(separator);
   
 };
-  
+ 
